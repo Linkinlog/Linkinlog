@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linkinlog&label=Profile%20views&color=880eb4&style=plastic" alt="linkinlog" /> </p>
 
-- 🔭 I’m currently working on : [HomeBurrow](https://github.com/Linkinlog/HomeBurrow)
-
 - 🌱 I’m currently learning : **Go, PHP/Laravel, DevOps with Docker/AWS**
 
 - 💬 Ask me about : **Unit testing**
