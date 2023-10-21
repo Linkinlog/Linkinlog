@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dahlton</h1>
-<h3 align="center">A passionate software artist</h3>
+<h3 align="center">A passionate software craftsman</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linkinlog&label=Profile%20views&color=880eb4&style=plastic" alt="linkinlog" /> </p>
 
-- 🌱 I’m currently learning : **Go, PHP/Laravel, DevOps with Docker/AWS**
+- 🌱 I’m currently learning : **Clean architecture**
 
-- 💬 Ask me about : **Unit testing**
+- 💬 Ask me about : **Go**
 
 - 📄 Know about my experiences : [Portfolio Site](https://dahlton.org)
 
-- ⚡ Currently Working on : [Gasible](https://github.com/Linkinlog/gasible)
+- ⚡ Currently Working on : [RapidRig](https://github.com/RapidRig/RapidRig-Go)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
