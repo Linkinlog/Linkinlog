@@ -7,7 +7,7 @@
 
 - 💬 Ask me about : **Go**
 
-- 📄 Know about my experiences : [Portfolio Site](https://dahlton.org)
+- 📄 Read my thoughts : [Blog](https://blog.dahlton.org)
 
 - ⚡ Currently Working on : [RapidRig](https://github.com/RapidRig/RapidRig-Go)
 
