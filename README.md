@@ -9,8 +9,6 @@
 
 - 📄 Read my thoughts : [Blog](https://blog.dahlton.org)
 
-- ⚡ Currently Working on : [RapidRig](https://github.com/RapidRig/RapidRig-Go)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/linkinlog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="linkinlog" height="30" width="40" /></a>
