@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linkinlog&label=Profile%20views&color=880eb4&style=plastic" alt="linkinlog" /> </p>
 
-- 🌱 I’m currently learning : **Clean architecture**
+- 🌱 I’m currently reading : **[Cloud Native Go](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/)**
 
 - 💬 Ask me about : **Go**
 
